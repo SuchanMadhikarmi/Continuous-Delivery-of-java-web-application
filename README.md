@@ -19,10 +19,6 @@ The project ensures environment isolation, Docker-based delivery, and manual pro
 
 This setup enables safe, predictable releases and reduces the risk of deploying untested code to production.
 
-> **Note**: All configuration scripts including EC2 userdata and Jenkinsfile are available in the repository. Screenshots of the deployment steps are provided in the `screenshots/` folder.
-
----
-
 ## Tools & Technologies Used
 
 - **CI/CD Tool**: Jenkins  
